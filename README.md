@@ -35,7 +35,7 @@ hadoop jar bin/hetri-0.1.jar hetri.HeTri \
                                        $DATA
 ```
 
-Options:
+Parameters:
 
   * `$ALLOCATOR` is the parallel scheduling algorithm of `HeTri` (options: `mlc` (default), `rand`, `greedy`).
   * `$NUM_COLOR` is the number of node colors.
