@@ -19,7 +19,7 @@ tools/sbt assembly
 
 ## How to run `HeTri`
 
-Hadoop and dependencies should be installed in your system in advance. The tested environment si as follows:
+Hadoop and dependencies should be installed in your system in advance. The tested environment is as follows:
 
   * Java v1.8.0
   * Scala v2.11.4
